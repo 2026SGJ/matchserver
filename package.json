@@ -1,0 +1,24 @@
+{
+  "name": "2026sgj",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/2026SGJ/2026SGJ#readme",
+  "bugs": {
+    "url": "https://github.com/2026SGJ/2026SGJ/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2026SGJ/2026SGJ.git"
+  },
+  "license": "AGPL-3.0-only",
+  "author": "XQYWorld",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colyseus.js": "^0.16.22"
+  },
+  "devDependencies": {}
+}
